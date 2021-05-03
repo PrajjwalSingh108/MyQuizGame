@@ -7,7 +7,7 @@ var question;
 var contestant;
 
 function setup(){
-  canvas = createCanvas(850,750);
+  canvas = createCanvas(850,550);
 }
 
 
